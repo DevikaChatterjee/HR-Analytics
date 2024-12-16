@@ -18,7 +18,7 @@ Organized dimensions into hierarchies (e.g., region > country > city).
 Verified that the data is consistent and aligned with business logic.
 
 
-****Steps performed on Data** **
+****Observation** **
 The HR analytics reveals key insights that can drive business value and improve workforce management. With a total headcount of 1,470 employees, including 1,233 active employees, and an attrition count of 237, the business can assess workforce stability and plan recruitment needs to avoid productivity disruptions. The attrition rate of 16.12% highlights the need to benchmark against industry standards and address retention challenges, as reducing turnover can lower recruitment costs and retain institutional knowledge. The average age of 37 years suggests a balanced workforce, allowing the company to tailor retention strategies that cater to both younger and older employees. Additionally, the higher attrition among male employees (150) compared to females (87) points to potential gender-specific issues in job satisfaction, growth, or work-life balance, enabling targeted interventions to improve gender diversity and reduce male attrition. By leveraging these insights, the organization can implement data-driven strategies to enhance employee retention, satisfaction, and overall workforce productivity.
 
 
